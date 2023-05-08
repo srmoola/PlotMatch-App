@@ -1,0 +1,15 @@
+#viewDiv {
+    background-color: #222831;
+    position: absolute;
+    top:7.5rem;
+    padding: 0;
+    margin: 0;
+    height: 85%;
+    width: 100%;
+}
+
+@media screen and (min-width:992px){
+    .nav-item {
+        line-height:80px;
+    }
+}

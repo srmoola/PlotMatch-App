@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <!-- ===== STYLE.CSS ===== -->
+  <link rel="stylesheet" href="../styles/help.css" />
+  <link rel="icon" type="image/x-icon" href="../images/PMNewlogo.png">
+  <!-- ===== REMIXICON CDN ===== -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+  <title>Plot Match</title>
+</head>
+
+<body>
+<!-- ===== OVERLAY ===== -->
+<div class="overlay first"></div>
+<div class="overlay second"></div>
+<div class="overlay third"></div>
+<!-- ===== CONTAINER'S ===== -->
+<div class="left_container"></div>
+<div class="right_container"></div>
+<!-- ===== STRIPS ===== -->
+<div class="strips">
+  <div class="left_strip"></div>
+  <div class="right_strip"></div>
+</div>
+
+<!-- ===== NAVBAR ===== -->
+<header>
+  <nav class="nav body_layout">
+    <div class="nav_insider">
+      <div class="nav__menu" id="nav__menu">
+        <ul class="nav__list">
+          <li class="nav__item"><a href="index.html" class="nav__link">Home</a></li>
+          <li class="nav__item"><a href="map.html" class="nav__link">Map</a></li>
+          <li class="nav__item"><a href="contact.html" class="nav__link">Contact</a></li>
+        </ul>
+      </div>
+      <div class="social">
+        <ul class="social__list">
+          <li style = "color: #F4EEE0" class="social_item"><i class="ri-github-fill"></i></li>
+          <li style = "color: #F4EEE0" class="social_item"><i class="ri-instagram-fill"></i></li>
+          <li style = "color: #F4EEE0" class="social_item"><i class="ri-twitter-fill"></i></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<div class="product_text">
+  <h1 style = "color: #F4EEE0" class="product_title">Help</h1>
+  <p style = "color: #F4EEE0" class="product_type">PlotMatch</p>
+</div>
+
+<div class="about_container">
+  <p class="about_text">Welcome to the Help page for PlotMatch!
+    If you are here, you probably want to know what the PlotMatch Score is or how to navigate the map
+    <br>
+    <br>
+    Movement features of the map:
+    <br>
+     • You can scroll the mousewheel to zoom in and out and you can simply drag on the screen to move the camera.
+    <br>
+    <br>
+    PlotMatch Score:
+    <br>
+     • What you basically need to know about the PlotMatch Score is that the closer it is to 100, the better the location is for a business.
+    Our algorithm calculates this number by taking into consideration Noise Pollution, Environmental Effects, Proximity to EV Chargers, and Nearby Traffic.
+  </p>
+  <img class="fade-in" id = "image" src="../images/helpshotother.jpg" alt="">
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>
+<script src="../scripts/help.js"></script>
+
+</body>
+</html>
