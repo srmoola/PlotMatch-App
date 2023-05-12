@@ -66,9 +66,12 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Satyadev Moolagani (Frontend) - smoolagani@gmail.com
-Hasan Yasin (Frontend) - 
-Pranav Merugu (Backend) - 
-Ihsan Yasin (Backend) - 
+<br>
+Hasan Yasin (Frontend) - hyasin@umich.edu
+<br>
+Pranav Merugu (Backend) - prmerug920@pccsk12.com
+<br>
+Ihsan Yasin (Backend) - ihyasin@umich.edu
 
 
 Project Link:  [plotmatch](https://plotmatchapp.netlify.app/)
