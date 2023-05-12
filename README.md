@@ -33,7 +33,7 @@ PlotMatch is a powerful app that helps small business owners in the city of Cant
 
 App is open to anyone but is targeted at potential small business owners that are looking for locations to open.
 <br>
-The website can be found at: [https://plotmatchapp.netlify.app/](url) or [https://plotmatch.netlify.app/](url)  
+The website can be found at: [plotmatch](https://plotmatchapp.netlify.app/)
 
 
 
@@ -71,7 +71,7 @@ Pranav Merugu (Backend) -
 Ihsan Yasin (Backend) - 
 
 
-Project Link:  [https://plotmatchapp.netlify.app/](url)
+Project Link:  [plotmatch](https://plotmatchapp.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
