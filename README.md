@@ -2,9 +2,8 @@
 
 # PlotMatch
 
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<br>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The App
@@ -34,7 +33,7 @@ PlotMatch is a powerful app that helps small business owners in the city of Cant
 
 App is open to anyone but is targeted at potential small business owners that are looking for locations to open.
 <br>
-The website can be found at: [plotmatch.netlify.app](url)
+The website can be found at: [plotmatchapp.netlify.app](url)
 
 
 
@@ -62,21 +61,17 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Satyadev Moolagani (Repo Owner) - smoolagani@gmail.com
+Satyadev Moolagani (Frontend) - smoolagani@gmail.com
+Hasan Yasin (Frontend) - 
+Pranav Merugu (Backend) - 
+Ihsan Yasin (Backend) - 
 
-Project Link:  [plotmatch.netlify.app](url)
+
+Project Link:  [plotmatchapp.netlify.app](url)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
