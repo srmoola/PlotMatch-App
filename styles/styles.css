@@ -278,7 +278,8 @@ header{
     max-width: 260px;
     position: absolute;
     top: 50%;
-    left: 40em;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 img{
     -webkit-animation: mover 2s infinite  alternate;
